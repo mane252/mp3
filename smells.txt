@@ -1,0 +1,15 @@
+Name: Jermane Robinson
+Date: October 29, 2020
+Assignment: MP3 Code Smells
+
+1. Duplicated code is the code smell present. We can refactor using the extract method
+to remove the repeated statements.
+
+3. In my opinion I think the updateAndTrim belongs in the Nodes class. Duplicated code
+is the code smell presenet. We can reactor using the extract method to remove the
+repeated statements.
+
+4. To eliminate the repeating code we could just put it all in a loop.
+
+6. File chosen to refactor: jenkins/test/src/test/java/hudson/model/RunParameterDefinitionTest.java
+To eliminate the repeating statements of code we can refactor using the extract method. 
